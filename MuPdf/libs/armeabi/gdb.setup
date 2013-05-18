@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi
+directory /Users/hujiawei/Android/android_ndk/platforms/android-8/arch-arm/usr/include ../draw ../fitz ../pdf jni ../thirdparty/jbig2dec ../thirdparty/openjpeg/libopenjpeg ../thirdparty/jpeg ../thirdparty/zlib ../thirdparty/freetype/include ../xps ../cbz ../image ../scripts /Users/hujiawei/Android/android_ndk/sources/cxx-stl/system
